@@ -26,16 +26,3 @@ The comparative analysis suggests that while LSTM provides the best performance 
 ## Contributing
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-Project Link: [https://github.com/your-username/sentiment-analysis-comparison](https://github.com/your-username/sentiment-analysis-comparison)
-
----
-
-This README template provides a clear overview of your project, making it accessible for others to understand the purpose, structure, and outcomes of your comparative analysis. Adjust the sections as necessary to fit the specifics of your project or personal preferences.
